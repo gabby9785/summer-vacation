@@ -1,0 +1,45 @@
+body {
+    background: #a89497; 
+}
+
+h1 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 60ox;
+    text-align: center;
+    color: #000000;
+}
+
+h2 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 40ox;
+    text-align:
+    color: #ffffff;
+}
+
+p {
+    text-align: 
+    font-size: 
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: #ffffff;
+    
+}
+
+img {
+    max-width: 100%;
+}
+
+
+a {
+    color:#d2ffc9;
+}
+a:visited {
+    color: #c4ebff;
+}
+a:hover {
+    color:#ffc6dc;
+}
+
+a:active {
+    color:#e2cba5;
+}
+
